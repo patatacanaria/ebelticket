@@ -9,6 +9,8 @@ html, body {
   width: 100%;
 }
 .logo {
+  border: none;
+  border-radius: 10px;
   position: fixed;
   top: 2%;
   left: 2%;
